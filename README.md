@@ -33,12 +33,12 @@ The architecture diagram (`aws-web-app-architecture.drawio`) includes the follow
 
 ### Key Features
 
-✅ **High Availability**: Deployed across multiple Availability Zones (AZs)  
-✅ **Fault Tolerance**: Multi-AZ RDS with automatic failover, redundant NAT Gateways  
-✅ **Auto Scaling**: Automatic capacity adjustment based on demand  
-✅ **Security**: WAF protection, private subnets, security groups, encrypted credentials  
-✅ **Resilience**: Load balancing, health checks, and redundant infrastructure  
-✅ **Monitoring**: CloudWatch for comprehensive observability  
+**High Availability**: Deployed across multiple Availability Zones (AZs)  
+**Fault Tolerance**: Multi-AZ RDS with automatic failover, redundant NAT Gateways  
+**Auto Scaling**: Automatic capacity adjustment based on demand  
+**Security**: WAF protection, private subnets, security groups, encrypted credentials  
+**Resilience**: Load balancing, health checks, and redundant infrastructure  
+**Monitoring**: CloudWatch for comprehensive observability  
 
 ## Setting Up Draw.io in VSCode
 
